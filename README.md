@@ -2,5 +2,7 @@
 Reinaldo  Ribeiro de  Sousa
 Iniciando meus aprendizados em  webdisign e git.
 Acrescentando mais algumas linhas para ver os novos commit
-segunda mudanca
+segunda mudancat 
+Terceira mudança ao  treino
+
 
